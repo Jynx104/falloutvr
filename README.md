@@ -32,45 +32,84 @@ and playability.
 
 MODS:
 Mod Configuration Menu
+
 UIO
+
 Shiloh DS - Clean Pipboy Screen
+
 One HUD - oHUD
+
 Immersive HUD - iHUD
+
 DarnUI (not on nexus you can download it here: https://www.moddb.com/games/fallout-new-vegas/addons/darnified-ui-v04 make sure you get your 
 compatibility patches for it or else you'll have issues)
+
 Loot Menu (Fallout 4 loot menu, no explination there)
+
 No Blur Menus and UI FIXED
+
 MTUI
+
 The HUD Editor (Most important one in this list! Make sure this is installed correctly!)
+
 FOV Slider (necessary to see, customize your FOV to your liking)
+
 Faster DialogZoom
+
 Immsersive Pickup Sounds
+
 Audible Bush Sounds
+
 No Screen Blood
+
 HD Glass Impact Decals 
+
 HD Fire and Explosions
+
 EVE Visual Enhancements
+
 ClearWindows
+
 Bullet Tracers New Vegas
+
 Realtime Player Death
+
 Dusty Distance (for lod popping)
+
 NoScopeWobble
+
 noautoaim
+
 No Weapon Movement Penalty
+
 Motion Sickness Destroyer
+
 Just Vanilla Sprint
+
 Faster VATS
+
 Faster Terminals
+
 Enhanced Camera
+
 5x Faster Waiting
+
 No More Double Open And Close Sounds
+
 No 1st Person Camera Movement
+
 Realistic Movement1.0
+
 FP Gun Follows Crosshairs
+
 Faster Pip-Boy Animation (I use 2x, use whatever you feel comfortable with)
+
 Diagonal Movement
+
 B42 Inertia
+
 Asurah Reanimation Pack
+
 Tutorial Killer
 
 These are all mods I consider essential. Without them you're going to be blind during combat and you're going to get motion sickness trying to run from Deathclaws.
